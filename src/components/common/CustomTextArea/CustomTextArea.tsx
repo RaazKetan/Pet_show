@@ -19,7 +19,6 @@ const TextArea: FC<IProps> = ({
             )}
 
         <textarea
-            name="description"
             cols={30}
             rows={2}
             id={field.name}
