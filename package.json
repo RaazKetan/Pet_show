@@ -54,6 +54,7 @@
     "@types/passport-local": "^1.0.33",
     "@types/react": "^17.0.2",
     "@types/react-select": "^4.0.13",
+    "@types/react-select-country-list": "^2.2.3",
     "postcss-extend": "^1.0.5",
     "postcss-import": "^14.0.0",
     "postcss-nested": "^5.0.4",

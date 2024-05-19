@@ -1,6 +1,6 @@
 import { FC, useMemo } from "react";
 import Select, { components } from 'react-select';
-import countryList from 'react-select-country-list';
+import countryList from 'react-select-country-list'
 import { Option } from "react-select/src/filters";
 import { SelectComponentsProps } from "react-select/src/Select";
 

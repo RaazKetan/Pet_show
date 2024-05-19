@@ -477,6 +477,11 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-select-country-list@^2.2.3":
+  version "2.2.3"
+  resolved "https://registry.npmjs.org/@types/react-select-country-list/-/react-select-country-list-2.2.3.tgz"
+  integrity sha512-nffcYOwuun+5B0EWqubK+amHpPdK9Xj20xkLYNqYrzmESd8FnpLwHsS79ClLAWA9y+icVA8gWPkbwBp1gpjSwA==
+
 "@types/react-select@^4.0.13":
   version "4.0.18"
   resolved "https://registry.npmjs.org/@types/react-select/-/react-select-4.0.18.tgz"
